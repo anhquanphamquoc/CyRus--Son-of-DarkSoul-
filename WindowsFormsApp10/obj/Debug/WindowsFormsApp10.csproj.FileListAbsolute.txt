@@ -1,0 +1,62 @@
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.SuggestedBindingRedirects.cache
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\Hoc\Lap trinh\CS\Save\The Rise of Seaborn\Final 2\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\FPTSHOP\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Admin\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\Downloads\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\Downloads\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Admin\OneDrive\Documents\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.SuggestedBindingRedirects.cache
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+D:\Hoc\Github\CyRus (Son of DarkSoul)\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
